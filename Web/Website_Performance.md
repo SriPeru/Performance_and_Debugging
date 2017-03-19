@@ -87,4 +87,4 @@ That means, by enabling HTTP/2 in your exisiting website will improve 50% faster
 
 Have a loader file (index.html) which is not cached, but that knows the locations of the items which are cached permanently. The user will always get the loader file, but may have already cached the resources it points to.
 
-Other way of caching are Appcache / Localstorage.
+Other way of caching - Appcache / Localstorage.
