@@ -1,4 +1,4 @@
-# Google's Google Accelerated Mobile Pages [AMP]
+# Google's Accelerated Mobile Pages [AMP]
 
 
 AMP is an open initiative to help publishers create mobile content that loads instantly on various user’s devices.
